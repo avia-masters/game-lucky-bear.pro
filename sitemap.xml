@@ -3,16 +3,12 @@
         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-
-  <!-- Главная -->
   <url>
     <loc>https://game-lucky-bear.pro/</loc>
     <lastmod>2026-10-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
-
-  <!-- Основные разделы -->
   <url>
     <loc>https://game-lucky-bear.pro/index.html</loc>
     <lastmod>2026-10-08</lastmod>
@@ -61,8 +57,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-
-  <!-- Информационные страницы -->
   <url>
     <loc>https://game-lucky-bear.pro/reviews.html</loc>
     <lastmod>2026-10-08</lastmod>
@@ -93,8 +87,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
-
-  <!-- Юридические страницы -->
   <url>
     <loc>https://game-lucky-bear.pro/responsible.html</loc>
     <lastmod>2026-10-08</lastmod>
@@ -113,5 +105,4 @@
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
-
 </urlset>
